@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Mostafa"
+  },
+  {
+    "id": 2,
+    "name": "Sara"
+  },
+  {
+    "id": 3,
+    "name": "Hana",
+    "father": 1,
+    "mother": 2
+  }
+]
