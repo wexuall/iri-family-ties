@@ -14,7 +14,7 @@
   {
     "id": 3,
     "name": "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f \u062e\u0645\u06cc\u0646\u06cc",
-    "spouse": 44,
+    "spouse": 43,
     "parents": [
       1
     ]
@@ -22,7 +22,7 @@
   {
     "id": 4,
     "name": "\u0633\u06cc\u062f \u0645\u0635\u0637\u0641\u06cc \u062e\u0645\u06cc\u0646\u06cc",
-    "spouse": 165,
+    "spouse": 160,
     "parents": [
       1
     ]
@@ -38,7 +38,7 @@
   {
     "id": 6,
     "name": "\u0641\u0631\u06cc\u062f\u0647 \u0645\u0635\u0637\u0641\u0648\u06cc",
-    "spouse": 49,
+    "spouse": 47,
     "parents": [
       1
     ]
@@ -48,7 +48,6 @@
     "name": "\u0632\u0647\u0631\u0627 \u0645\u0635\u0637\u0641\u0648\u06cc",
     "spouse": 30,
     "parents": [
-      120,
       1
     ]
   },
@@ -87,7 +86,7 @@
     "name": "\u0646\u062f\u0627 \u0645\u0648\u0633\u0648\u06cc \u0628\u062c\u0646\u0648\u0631\u062f\u06cc",
     "spouse": 9,
     "parents": [
-      121
+      117
     ]
   },
   {
@@ -111,16 +110,16 @@
     "name": "\u0633\u06cc\u062f\u0647 \u062d\u0648\u0631\u0627 \u0635\u062f\u0631",
     "spouse": 11,
     "parents": [
-      166
+      161
     ]
   },
   {
     "id": 16,
     "name": "\u0641\u0631\u0634\u062a\u0647 \u0627\u0639\u0631\u0627\u0628\u06cc",
-    "spouse": 17,
+    "spouse": 42,
     "parents": [
       6,
-      49
+      47
     ]
   },
   {
@@ -159,8 +158,8 @@
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u062d\u0633\u0646 \u0637\u0627\u0647\u0631\u06cc",
     "spouse": 20,
     "parents": [
-      180,
-      169
+      164,
+      175
     ]
   },
   {
@@ -172,7 +171,7 @@
   {
     "id": 23,
     "name": "\u0646\u0641\u06cc\u0633\u0647 \u0627\u0634\u0631\u0627\u0642\u06cc",
-    "spouse": 171,
+    "spouse": 166,
     "parents": [
       5,
       22
@@ -181,10 +180,10 @@
   {
     "id": 24,
     "name": "\u0632\u0647\u0631\u0627 \u0627\u0634\u0631\u0627\u0642\u06cc",
-    "spouse": 94,
+    "spouse": 92,
     "parents": [
+      113,
       5,
-      115,
       22
     ]
   },
@@ -235,7 +234,7 @@
   {
     "id": 31,
     "name": "\u0645\u0633\u06cc\u062d \u0628\u0631\u0648\u062c\u0631\u062f\u06cc",
-    "spouse": 173,
+    "spouse": 168,
     "parents": [
       30,
       7
@@ -252,16 +251,16 @@
   },
   {
     "id": 33,
-    "name": "\u0633\u06cc\u062f\u0639\u0628\u062f\u0627\u0644\u062d\u0633\u06cc\u0646 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": 40,
+    "name": "\u0633\u06cc\u062f \u0639\u0628\u062f\u0627\u0644\u062d\u0633\u06cc\u0646 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
+    "spouse": 32,
     "parents": [
-      41
+      40
     ]
   },
   {
     "id": 34,
     "name": "\u0633\u06cc\u062f\u0647 \u0647\u062f\u06cc \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc",
-    "spouse": 179,
+    "spouse": 174,
     "parents": [
       32,
       33
@@ -280,7 +279,7 @@
     "name": "\u0645\u062d\u0633\u0646 \u0631\u0636\u0627\u06cc\u06cc",
     "spouse": 37,
     "parents": [
-      130
+      125
     ]
   },
   {
@@ -294,8 +293,8 @@
     "name": "\u0632\u0647\u0631\u0627\u0633\u0627\u062f\u0627\u062a \u0631\u0648\u062d\u0627\u0646\u06cc",
     "spouse": 39,
     "parents": [
-      118,
-      23
+      23,
+      116
     ]
   },
   {
@@ -303,476 +302,477 @@
     "name": "\u0639\u0645\u0627\u062f \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
     "spouse": 38,
     "parents": [
-      53
+      51
     ]
   },
   {
     "id": 40,
-    "name": "\u0647\u0645\u0633\u0631\u0644\u06cc\u0644\u06cc \u0628\u0631\u0648\u062c\u0631\u062f\u06cc",
-    "spouse": 33,
-    "parents": [
-      30,
-      7
-    ]
-  },
-  {
-    "id": 41,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 42,
+    "id": 41,
     "name": "\u0633\u06cc\u062f \u0635\u0627\u062f\u0642 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": 46,
+    "spouse": 44,
     "parents": [
-      41
+      40
+    ]
+  },
+  {
+    "id": 42,
+    "name": "\u0633\u06cc\u062f \u0645\u0631\u062a\u0636\u06cc \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
+    "spouse": 16,
+    "parents": [
+      159,
+      40
     ]
   },
   {
     "id": 43,
-    "name": "\u0633\u06cc\u062f \u0645\u0631\u062a\u0636\u06cc \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": 45,
+    "name": "\u0633\u06cc\u062f\u0647 \u0641\u0627\u0637\u0645\u0647 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
+    "spouse": 3,
     "parents": [
-      164,
-      41
+      159,
+      40
     ]
   },
   {
     "id": 44,
-    "name": "\u0633\u06cc\u062f\u0647 \u0641\u0627\u0637\u0645\u0647 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": 3,
-    "parents": [
-      164,
-      41
-    ]
+    "name": "\u0641\u0627\u0637\u0645\u0647 \u0635\u062f\u0631",
+    "spouse": 41,
+    "parents": []
   },
   {
     "id": 45,
-    "name": "\u0647\u0645\u0633\u0631\u0641\u0631\u0634\u062a\u0647 \u0627\u0639\u0631\u0627\u0628\u06cc",
-    "spouse": 43,
-    "parents": []
-  },
-  {
-    "id": 46,
-    "name": "\u0641\u0627\u0637\u0645\u0647 \u0635\u062f\u0631",
-    "spouse": 42,
-    "parents": []
-  },
-  {
-    "id": 47,
     "name": "\u0633\u06cc\u062f\u0647 \u0647\u062f\u06cc \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": 48,
+    "spouse": 46,
     "parents": [
       32,
-      119
+      33
     ]
   },
   {
-    "id": 48,
+    "id": 46,
     "name": "\u0639\u0644\u06cc \u0631\u0636\u0627\u06cc\u06cc \u0645\u06cc\u0631\u0642\u0627\u0626\u062f",
-    "spouse": 47,
+    "spouse": 45,
     "parents": [
       36
     ]
   },
   {
-    "id": 49,
+    "id": 47,
     "name": "\u0645\u062d\u0645\u062f\u062d\u0633\u0646 \u0627\u0639\u0631\u0627\u0628\u06cc",
     "spouse": 6,
     "parents": []
   },
   {
-    "id": 50,
+    "id": 48,
     "name": "\u0627\u06a9\u0628\u0631 \u0647\u0627\u0634\u0645\u06cc \u0631\u0641\u0633\u0646\u062c\u0627\u0646\u06cc",
-    "spouse": 56,
+    "spouse": 54,
     "parents": [
-      123
+      119
+    ]
+  },
+  {
+    "id": 49,
+    "name": "\u0641\u0627\u0626\u0632\u0647 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
+    "spouse": 83,
+    "parents": [
+      48
+    ]
+  },
+  {
+    "id": 50,
+    "name": "\u0641\u0627\u0637\u0645\u0647 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
+    "spouse": 84,
+    "parents": [
+      48
     ]
   },
   {
     "id": 51,
-    "name": "\u0641\u0627\u0626\u0632\u0647 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
-    "spouse": 86,
+    "name": "\u0645\u062d\u0633\u0646 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
+    "spouse": null,
     "parents": [
-      50
+      48
     ]
   },
   {
     "id": 52,
-    "name": "\u0641\u0627\u0637\u0645\u0647 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
-    "spouse": 87,
+    "name": "\u06cc\u0627\u0633\u0631 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
+    "spouse": null,
     "parents": [
-      50
+      48
     ]
   },
   {
     "id": 53,
-    "name": "\u0645\u062d\u0633\u0646 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
+    "name": "\u0645\u0647\u062f\u06cc \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      50
+      48
     ]
   },
   {
     "id": 54,
-    "name": "\u06cc\u0627\u0633\u0631 \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      50
-    ]
-  },
-  {
-    "id": 55,
-    "name": "\u0645\u0647\u062f\u06cc \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      50
-    ]
-  },
-  {
-    "id": 56,
     "name": "\u0639\u0641\u062a \u0645\u0631\u0639\u0634\u06cc",
-    "spouse": 50,
+    "spouse": 48,
     "parents": []
   },
   {
-    "id": 57,
+    "id": 55,
     "name": "\u0633\u06cc\u062f \u0627\u0628\u0648\u0627\u0644\u0641\u0636\u0644 \u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc [\u0632\u0631\u0646\u062f\u06cc]",
-    "spouse": 175,
+    "spouse": 170,
+    "parents": []
+  },
+  {
+    "id": 56,
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc [\u0632\u0631\u0646\u062f\u06cc]",
+    "spouse": null,
+    "parents": [
+      55
+    ]
+  },
+  {
+    "id": 57,
+    "name": "\u0633\u06cc\u062f \u062c\u0648\u0627\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": null,
     "parents": []
   },
   {
     "id": 58,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc [\u0632\u0631\u0646\u062f\u06cc]",
-    "spouse": null,
+    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": 67,
     "parents": [
       57
     ]
   },
   {
     "id": 59,
-    "name": "\u0633\u06cc\u062f \u062c\u0648\u0627\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "name": "\u0633\u06cc\u062f \u0647\u0627\u062f\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
     "spouse": null,
-    "parents": []
+    "parents": [
+      57
+    ]
   },
   {
     "id": 60,
-    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": 69,
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": null,
     "parents": [
-      59
+      57
     ]
   },
   {
     "id": 61,
-    "name": "\u0633\u06cc\u062f \u0647\u0627\u062f\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": null,
+    "name": "\u0633\u06cc\u062f \u0645\u062c\u062a\u0628\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": 68,
     "parents": [
-      59
+      58
     ]
   },
   {
     "id": 62,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": null,
+    "name": "\u0633\u06cc\u062f \u0645\u0635\u0637\u0641\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": 173,
     "parents": [
-      59
+      58
     ]
   },
   {
     "id": 63,
-    "name": "\u067e\u062f\u0631\u0633\u06cc\u062f \u0645\u062c\u062a\u0628\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "name": "\u0633\u06cc\u062f \u0645\u06cc\u062b\u0645 \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
     "spouse": null,
     "parents": [
-      60
+      58
     ]
   },
   {
     "id": 64,
-    "name": "\u0633\u06cc\u062f \u0645\u0635\u0637\u0641\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": 178,
+    "name": "\u0633\u06cc\u062f\u0647 \u0628\u0634\u0631\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": null,
     "parents": [
-      60
+      58
     ]
   },
   {
     "id": 65,
-    "name": "\u0633\u06cc\u062f \u0645\u06cc\u062b\u0645 \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "name": "\u0633\u06cc\u062f\u0647 \u0647\u062f\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
     "spouse": null,
     "parents": [
-      60
+      58
     ]
   },
   {
     "id": 66,
-    "name": "\u0633\u06cc\u062f\u0647 \u0628\u0634\u0631\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": null,
+    "name": "\u0633\u06cc\u062f \u0645\u0633\u0639\u0648\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": 171,
     "parents": [
-      60
+      58
     ]
   },
   {
     "id": 67,
-    "name": "\u0633\u06cc\u062f\u0647 \u0647\u062f\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": null,
-    "parents": [
-      60
-    ]
+    "name": "\u0645\u0646\u0635\u0648\u0631\u0647 \u062e\u062c\u0633\u062a\u0647 \u0628\u0627\u0642\u0631\u0632\u0627\u062f\u0647",
+    "spouse": 58,
+    "parents": []
   },
   {
     "id": 68,
-    "name": "\u0633\u06cc\u062f \u0645\u0633\u0639\u0648\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": 176,
+    "name": "\u0632\u0647\u0631\u0627 \u062d\u062f\u0627\u062f \u0639\u0627\u062f\u0644",
+    "spouse": 61,
     "parents": [
-      60
+      72
     ]
   },
   {
     "id": 69,
-    "name": "\u0645\u0646\u0635\u0648\u0631\u0647 \u062e\u062c\u0633\u062a\u0647 \u0628\u0627\u0642\u0631\u0632\u0627\u062f\u0647",
-    "spouse": 60,
-    "parents": []
+    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
+    "parents": [
+      129
+    ]
   },
   {
     "id": 70,
-    "name": "\u0633\u06cc\u062f \u0645\u062c\u062a\u0628\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
-    "spouse": 71,
+    "name": "\u0639\u0644\u06cc \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
     "parents": [
-      60
+      69
     ]
   },
   {
     "id": 71,
-    "name": "\u0632\u0647\u0631\u0627 \u062d\u062f\u0627\u062f \u0639\u0627\u062f\u0644",
-    "spouse": 70,
+    "name": "\u0645\u0635\u0628\u0627\u062d\u200c\u0627\u0644\u0647\u062f\u06cc \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
     "parents": [
-      75
+      69
     ]
   },
   {
     "id": 72,
-    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      134
-    ]
+    "name": "\u063a\u0644\u0627\u0645\u0639\u0644\u06cc \u062d\u062f\u0627\u062f \u0639\u0627\u062f\u0644",
+    "spouse": 73,
+    "parents": []
   },
   {
     "id": 73,
-    "name": "\u0639\u0644\u06cc \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      72
-    ]
+    "name": "\u0637\u06cc\u0628\u0647 \u0645\u0627\u0647\u0631\u0648\u0632\u0627\u062f\u0647",
+    "spouse": 72,
+    "parents": []
   },
   {
     "id": 74,
-    "name": "\u0645\u0635\u0628\u0627\u062d\u200c\u0627\u0644\u0647\u062f\u06cc \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0633\u0646 \u062e\u0631\u0627\u0632\u06cc",
     "spouse": null,
     "parents": [
-      72
+      131
     ]
   },
   {
     "id": 75,
-    "name": "\u063a\u0644\u0627\u0645\u0639\u0644\u06cc \u062d\u062f\u0627\u062f \u0639\u0627\u062f\u0644",
-    "spouse": 76,
-    "parents": []
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u062e\u0631\u0627\u0632\u06cc",
+    "spouse": null,
+    "parents": [
+      74
+    ]
   },
   {
     "id": 76,
-    "name": "\u0637\u06cc\u0628\u0647 \u0645\u0627\u0647\u0631\u0648\u0632\u0627\u062f\u0647",
-    "spouse": 75,
-    "parents": []
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u062e\u0631\u0627\u0632\u06cc",
+    "spouse": null,
+    "parents": [
+      74
+    ]
   },
   {
     "id": 77,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0633\u0646 \u062e\u0631\u0627\u0632\u06cc",
-    "spouse": null,
+    "name": "\u0633\u06cc\u062f \u06a9\u0645\u0627\u0644 \u062e\u0631\u0627\u0632\u06cc",
+    "spouse": 78,
     "parents": [
-      136
+      131
     ]
   },
   {
     "id": 78,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u062e\u0631\u0627\u0632\u06cc",
-    "spouse": null,
-    "parents": [
-      77
-    ]
+    "name": "\u0645\u0646\u0635\u0648\u0631\u0647 \u0631\u0626\u06cc\u0633\u200c\u0642\u0627\u0633\u0645",
+    "spouse": 77,
+    "parents": []
   },
   {
     "id": 79,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u062e\u0631\u0627\u0632\u06cc",
+    "name": "\u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
     "spouse": null,
     "parents": [
-      77
+      129
     ]
   },
   {
     "id": 80,
-    "name": "\u0633\u06cc\u062f \u06a9\u0645\u0627\u0644 \u062e\u0631\u0627\u0632\u06cc",
-    "spouse": 81,
+    "name": "\u0645\u062d\u0645\u062f \u0633\u0639\u06cc\u062f \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
     "parents": [
-      136
+      79
     ]
   },
   {
     "id": 81,
-    "name": "\u0645\u0646\u0635\u0648\u0631\u0647 \u0631\u0626\u06cc\u0633\u200c\u0642\u0627\u0633\u0645",
-    "spouse": 80,
-    "parents": []
+    "name": "\u0645\u0647\u062f\u06cc\u0647 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
+    "parents": [
+      79
+    ]
   },
   {
     "id": 82,
-    "name": "\u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
+    "name": "\u0635\u062f\u06cc\u0642\u0647 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
     "spouse": null,
     "parents": [
-      134
+      79
     ]
   },
   {
     "id": 83,
-    "name": "\u0645\u062d\u0645\u062f \u0633\u0639\u06cc\u062f \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
-    "spouse": null,
+    "name": "\u062d\u0645\u06cc\u062f \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
+    "spouse": 49,
     "parents": [
-      82
+      87
     ]
   },
   {
     "id": 84,
-    "name": "\u0645\u0647\u062f\u06cc\u0647 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
-    "spouse": null,
+    "name": "\u0633\u0639\u06cc\u062f \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
+    "spouse": 50,
     "parents": [
-      82
+      87
     ]
   },
   {
     "id": 85,
-    "name": "\u0635\u062f\u06cc\u0642\u0647 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
-    "spouse": null,
+    "name": "\u0645\u062d\u0645\u062f\u0639\u0644\u06cc \u0635\u062f\u0648\u0642\u06cc",
+    "spouse": 86,
     "parents": [
-      82
+      96
     ]
   },
   {
     "id": 86,
-    "name": "\u062d\u0645\u06cc\u062f \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
-    "spouse": 51,
-    "parents": [
-      124
-    ]
+    "name": "\u0645\u0631\u06cc\u0645 \u062e\u0627\u062a\u0645\u06cc",
+    "spouse": 85,
+    "parents": []
   },
   {
     "id": 87,
-    "name": "\u0633\u0639\u06cc\u062f \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
-    "spouse": 52,
+    "name": "\u062d\u0633\u0646 \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
+    "spouse": null,
     "parents": []
   },
   {
     "id": 88,
-    "name": "\u0645\u062d\u0645\u062f\u0639\u0644\u06cc \u0635\u062f\u0648\u0642\u06cc",
+    "name": "\u0633\u06cc\u062f \u062d\u0633\u06cc\u0646 \u0645\u0631\u0639\u0634\u06cc",
     "spouse": 89,
-    "parents": [
-      98
-    ]
+    "parents": []
   },
   {
     "id": 89,
-    "name": "\u0645\u0631\u06cc\u0645 \u062e\u0627\u062a\u0645\u06cc",
+    "name": "\u0641\u0631\u06cc\u062f\u0647 \u0647\u0627\u0634\u0645\u06cc\u200c\u0646\u0698\u0627\u062f",
     "spouse": 88,
     "parents": []
   },
   {
     "id": 90,
-    "name": "\u0633\u06cc\u062f \u062d\u0633\u06cc\u0646 \u0645\u0631\u0639\u0634\u06cc",
-    "spouse": 91,
-    "parents": []
-  },
-  {
-    "id": 91,
-    "name": "\u0641\u0631\u06cc\u062f\u0647 \u0647\u0627\u0634\u0645\u06cc\u200c\u0646\u0698\u0627\u062f",
-    "spouse": 90,
-    "parents": []
-  },
-  {
-    "id": 92,
     "name": "\u0633\u06cc\u062f \u0631\u0648\u062d\u200c\u0627\u0644\u0644\u0647 \u062e\u0627\u062a\u0645\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 93,
+    "id": 91,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u062e\u0627\u062a\u0645\u06cc",
-    "spouse": 95,
+    "spouse": 93,
     "parents": [
-      92
+      90
     ]
   },
   {
-    "id": 94,
+    "id": 92,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u062e\u0627\u062a\u0645\u06cc",
     "spouse": 24,
+    "parents": [
+      90
+    ]
+  },
+  {
+    "id": 93,
+    "name": "\u0632\u0647\u0631\u0647 \u0635\u0627\u062f\u0642\u06cc",
+    "spouse": 91,
+    "parents": []
+  },
+  {
+    "id": 94,
+    "name": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u062e\u0627\u062a\u0645\u06cc",
+    "spouse": null,
     "parents": [
       92
     ]
   },
   {
     "id": 95,
-    "name": "\u0632\u0647\u0631\u0647 \u0635\u0627\u062f\u0642\u06cc",
-    "spouse": 93,
-    "parents": []
-  },
-  {
-    "id": 96,
-    "name": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u062e\u0627\u062a\u0645\u06cc",
-    "spouse": null,
-    "parents": [
-      94
-    ]
-  },
-  {
-    "id": 97,
     "name": "\u0641\u0627\u0637\u0645\u0647 \u062e\u0627\u062a\u0645\u06cc",
     "spouse": null,
     "parents": [
-      94
+      92
     ]
   },
   {
-    "id": 98,
+    "id": 96,
     "name": "\u0645\u062d\u0645\u062f \u0635\u062f\u0648\u0642\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 99,
+    "id": 97,
     "name": "\u0639\u0644\u06cc \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
-    "spouse": 100,
+    "spouse": 98,
     "parents": [
-      125
+      120
+    ]
+  },
+  {
+    "id": 98,
+    "name": "\u0641\u0631\u06cc\u062f\u0647 \u0645\u0637\u0647\u0631\u06cc",
+    "spouse": 97,
+    "parents": [
+      99
+    ]
+  },
+  {
+    "id": 99,
+    "name": "\u0645\u0631\u062a\u0636\u06cc \u0645\u0637\u0647\u0631\u06cc",
+    "spouse": null,
+    "parents": [
+      123
     ]
   },
   {
     "id": 100,
-    "name": "\u0641\u0631\u06cc\u062f\u0647 \u0645\u0637\u0647\u0631\u06cc",
-    "spouse": 99,
+    "name": "\u0639\u0644\u06cc \u0645\u0637\u0647\u0631\u06cc",
+    "spouse": null,
     "parents": [
-      101
+      99
     ]
   },
   {
     "id": 101,
-    "name": "\u0645\u0631\u062a\u0636\u06cc \u0645\u0637\u0647\u0631\u06cc",
+    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u200c\u0627\u0635\u063a\u0631 \u062f\u0633\u062a\u063a\u06cc\u0628",
     "spouse": null,
     "parents": [
-      128
+      151
     ]
   },
   {
     "id": 102,
-    "name": "\u0639\u0644\u06cc \u0645\u0637\u0647\u0631\u06cc",
+    "name": "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f\u0631\u0636\u0627 \u062f\u0633\u062a\u063a\u06cc\u0628",
     "spouse": null,
     "parents": [
       101
@@ -780,229 +780,231 @@
   },
   {
     "id": 103,
-    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u200c\u0627\u0635\u063a\u0631 \u062f\u0633\u062a\u063a\u06cc\u0628",
-    "spouse": null,
-    "parents": [
-      156
-    ]
+    "name": "\u0645\u0639\u0635\u0648\u0645\u0647 \u0627\u0628\u062a\u06a9\u0627\u0631",
+    "spouse": 104,
+    "parents": []
   },
   {
     "id": 104,
-    "name": "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f\u0631\u0636\u0627 \u062f\u0633\u062a\u063a\u06cc\u0628",
-    "spouse": null,
-    "parents": [
-      103
-    ]
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0647\u0627\u0634\u0645\u06cc \u0627\u0635\u0641\u0647\u0627\u0646\u06cc",
+    "spouse": 103,
+    "parents": []
   },
   {
     "id": 105,
-    "name": "\u0645\u0639\u0635\u0648\u0645\u0647 \u0627\u0628\u062a\u06a9\u0627\u0631",
-    "spouse": 106,
-    "parents": []
-  },
-  {
-    "id": 106,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0647\u0627\u0634\u0645\u06cc \u0627\u0635\u0641\u0647\u0627\u0646\u06cc",
-    "spouse": 105,
-    "parents": []
-  },
-  {
-    "id": 107,
     "name": "\u0633\u06cc\u062f \u0639\u0628\u0627\u0633 \u0627\u0628\u0648\u062a\u0631\u0627\u0628\u06cc \u0641\u0631\u062f",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 108,
+    "id": 106,
     "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u200c\u0627\u06a9\u0628\u0631 \u0627\u0628\u0648\u062a\u0631\u0627\u0628\u06cc \u0641\u0631\u062f",
     "spouse": null,
     "parents": [
-      107
+      105
     ]
   },
   {
-    "id": 109,
+    "id": 107,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u062d\u0633\u0646 \u0627\u0628\u0648\u062a\u0631\u0627\u0628\u06cc \u0641\u0631\u062f",
     "spouse": null,
     "parents": [
-      107
+      105
     ]
   },
   {
-    "id": 110,
+    "id": 108,
     "name": "\u0645\u062d\u0645\u062f\u062d\u0633\u06cc\u0646 \u0627\u062d\u0645\u062f\u06cc \u062f\u0627\u0646\u0634 \u0622\u0634\u062a\u06cc\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 111,
+    "id": 109,
     "name": "\u0641\u062e\u0631\u0627\u0644\u062f\u06cc\u0646 \u0627\u062d\u0645\u062f\u06cc \u062f\u0627\u0646\u0634 \u0622\u0634\u062a\u06cc\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      110
+      108
     ]
   },
   {
-    "id": 112,
+    "id": 110,
     "name": "\u0646\u06cc\u0631\u0647 \u0627\u062e\u0648\u0627\u0646 \u0628\u06cc\u200c\u0637\u0631\u0641",
-    "spouse": 113,
+    "spouse": 111,
     "parents": []
   },
   {
-    "id": 113,
+    "id": 111,
     "name": "\u062d\u0633\u0646 \u06a9\u0627\u0645\u0631\u0627\u0646",
-    "spouse": 112,
+    "spouse": 110,
     "parents": []
   },
   {
-    "id": 114,
+    "id": 112,
     "name": "\u0633\u06cc\u062f\u0639\u0644\u06cc \u062e\u0645\u06cc\u0646\u06cc",
-    "spouse": 168,
+    "spouse": 163,
     "parents": [
       3
     ]
   },
   {
-    "id": 115,
+    "id": 113,
     "name": "\u0634\u0647\u0627\u0628 \u0627\u0644\u062f\u06cc\u0646 \u0627\u0634\u0631\u0627\u0642\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 116,
+    "id": 114,
     "name": "\u0645\u0631\u062a\u0636\u06cc \u062d\u0627\u0626\u0631\u06cc \u06cc\u0632\u062f\u06cc",
     "spouse": null,
     "parents": [
-      117
+      115
     ]
   },
   {
-    "id": 117,
+    "id": 115,
     "name": "\u0639\u0628\u062f\u0627\u0644\u06a9\u0631\u06cc\u0645 \u062d\u0627\u0626\u0631\u06cc \u06cc\u0632\u062f\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 118,
+    "id": 116,
     "name": "\u0633\u06cc\u062f \u06a9\u0627\u0638\u0645 \u0631\u0648\u062d\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 119,
-    "name": "\u0633\u06cc\u062f \u0639\u0628\u062f\u0627\u0644\u062d\u0633\u06cc\u0646 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc \u0633\u0644\u0637\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      41
-    ]
-  },
-  {
-    "id": 120,
-    "name": "\u062f\u062e\u062a\u0631\u0633\u06cc\u062f \u0631\u0648\u062d\u200c\u0627\u0644\u0644\u0647 \u062e\u0645\u06cc\u0646\u06cc",
-    "spouse": null,
-    "parents": []
-  },
-  {
-    "id": 121,
+    "id": 117,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0645\u0648\u0633\u0648\u06cc \u0628\u062c\u0646\u0648\u0631\u062f\u06cc",
     "spouse": null,
     "parents": [
-      122
+      118
     ]
   },
   {
-    "id": 122,
+    "id": 118,
     "name": "\u0645\u06cc\u0631\u0632\u0627 \u062d\u0633\u0646 \u0645\u0648\u0633\u0648\u06cc \u0628\u062c\u0646\u0648\u0631\u062f\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 123,
+    "id": 119,
     "name": "\u0645\u06cc\u0631\u0632\u0627\u0639\u0644\u06cc \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 124,
-    "name": "\u062d\u0633\u0646 \u0644\u0627\u0647\u0648\u062a\u06cc \u0627\u0634\u06a9\u0648\u0631\u06cc",
-    "spouse": null,
-    "parents": []
-  },
-  {
-    "id": 125,
+    "id": 120,
     "name": "\u0647\u0648\u0634\u0646\u06af \u0627\u0631\u062f\u0634\u06cc\u0631 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc (\u0645\u0639\u0631\u0648\u0641 \u0628\u0647 \u0647\u0627\u0634\u0645 \u0622\u0645\u0644\u06cc)",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 126,
+    "id": 121,
     "name": "\u0645\u062d\u0645\u062f\u062c\u0648\u0627\u062f \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      125
+      120
     ]
   },
   {
-    "id": 127,
+    "id": 122,
     "name": "\u0635\u0627\u062f\u0642 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc \u0622\u0645\u0644\u06cc",
     "spouse": null,
     "parents": [
-      125
+      120
     ]
   },
   {
-    "id": 128,
+    "id": 123,
     "name": "\u0634\u06cc\u062e \u0645\u062d\u0645\u062f\u062d\u0633\u06cc\u0646\u06cc \u0633\u06cc\u0633\u062a\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 129,
+    "id": 124,
     "name": "\u0627\u0645\u06cc\u062f\u0648\u0627\u0631 \u0631\u0636\u0627\u06cc\u06cc",
     "spouse": null,
     "parents": [
-      130
+      125
     ]
   },
   {
-    "id": 130,
+    "id": 125,
     "name": "NO NAME PARENT",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 131,
+    "id": 126,
     "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f\u06a9\u0627\u0638\u0645 \u0645\u0648\u0633\u0648\u06cc \u0628\u062c\u0646\u0648\u0631\u062f\u06cc",
     "spouse": null,
     "parents": [
-      122
+      118
     ]
   },
   {
-    "id": 132,
+    "id": 127,
     "name": "\u0645\u062d\u0645\u062f \u0647\u0627\u0634\u0645\u06cc \u0628\u0647\u0631\u0645\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      123
+      119
+    ]
+  },
+  {
+    "id": 128,
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u0648\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "spouse": null,
+    "parents": [
+      57
+    ]
+  },
+  {
+    "id": 129,
+    "name": "NO NAME PARENT",
+    "spouse": null,
+    "parents": []
+  },
+  {
+    "id": 130,
+    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc \u0646\u0642\u06cc (\u06a9\u0645\u0627\u0644) \u062e\u0631\u0627\u0632\u06cc",
+    "spouse": null,
+    "parents": [
+      131
+    ]
+  },
+  {
+    "id": 131,
+    "name": "NO NAME PARENT",
+    "spouse": null,
+    "parents": []
+  },
+  {
+    "id": 132,
+    "name": "\u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "spouse": null,
+    "parents": [
+      129
     ]
   },
   {
     "id": 133,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u0648\u062f \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc",
+    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
     "spouse": null,
     "parents": [
-      59
+      129
     ]
   },
   {
     "id": 134,
-    "name": "NO NAME PARENT",
+    "name": "\u0639\u0644\u06cc \u0639\u0628\u0627\u0633\u067e\u0648\u0631 \u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
     "spouse": null,
-    "parents": []
+    "parents": [
+      136
+    ]
   },
   {
     "id": 135,
-    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc \u0646\u0642\u06cc (\u06a9\u0645\u0627\u0644) \u062e\u0631\u0627\u0632\u06cc",
+    "name": "\u062d\u0633\u0646 \u0639\u0628\u0627\u0633\u067e\u0648\u0631 \u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
     "spouse": null,
     "parents": [
       136
@@ -1016,123 +1018,121 @@
   },
   {
     "id": 137,
-    "name": "\u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u0628\u0627\u0642\u0631\u06cc \u06a9\u0646\u06cc",
+    "name": "\u062d\u0633\u0646 \u0639\u0628\u0627\u0633\u067e\u0648\u0631\u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
     "spouse": null,
     "parents": [
-      134
+      136
     ]
   },
   {
     "id": 138,
-    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0645\u0647\u062f\u0648\u06cc \u06a9\u0646\u06cc",
+    "name": "\u0628\u0631\u0627\u062f\u0631\u0635\u0627\u062f\u0642 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      134
+      120
     ]
   },
   {
     "id": 139,
-    "name": "\u0639\u0644\u06cc \u0639\u0628\u0627\u0633\u067e\u0648\u0631 \u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
+    "name": "\u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      141
+      120
     ]
   },
   {
     "id": 140,
-    "name": "\u062d\u0633\u0646 \u0639\u0628\u0627\u0633\u067e\u0648\u0631 \u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
+    "name": "\u0641\u0627\u0636\u0644 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      141
+      120
     ]
   },
   {
     "id": 141,
-    "name": "NO NAME PARENT",
+    "name": "\u0645\u062d\u0645\u062f\u062a\u0642\u06cc \u0645\u0637\u0647\u0631\u06cc",
     "spouse": null,
-    "parents": []
+    "parents": [
+      123
+    ]
   },
   {
     "id": 142,
-    "name": "\u062d\u0633\u0646 \u0639\u0628\u0627\u0633\u067e\u0648\u0631\u062a\u0647\u0631\u0627\u0646\u06cc \u0641\u0631\u062f",
+    "name": "\u0645\u062d\u0645\u062f\u062a\u0642\u06cc \u0645\u0637\u0647\u0631\u06cc \u0641\u0631\u06cc\u0645\u0627\u0646\u06cc",
     "spouse": null,
     "parents": [
-      141
+      123
     ]
   },
   {
     "id": 143,
-    "name": "\u0628\u0631\u0627\u062f\u0631\u0635\u0627\u062f\u0642 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
+    "name": "\u0639\u0644\u06cc\u200c\u0627\u06a9\u0628\u0631 \u0646\u0627\u0637\u0642 \u0646\u0648\u0631\u06cc",
     "spouse": null,
     "parents": [
-      125
+      145
     ]
   },
   {
     "id": 144,
-    "name": "\u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
+    "name": "\u0639\u0628\u0627\u0633\u0639\u0644\u06cc \u0646\u0627\u0637\u0642 \u0646\u0648\u0631\u06cc",
     "spouse": null,
     "parents": [
-      125
+      145
     ]
   },
   {
     "id": 145,
-    "name": "\u0641\u0627\u0636\u0644 \u0644\u0627\u0631\u06cc\u062c\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      125
-    ]
-  },
-  {
-    "id": 146,
-    "name": "\u0645\u062d\u0645\u062f\u062a\u0642\u06cc \u0645\u0637\u0647\u0631\u06cc",
-    "spouse": null,
-    "parents": [
-      128
-    ]
-  },
-  {
-    "id": 147,
-    "name": "\u0645\u062d\u0645\u062f\u062a\u0642\u06cc \u0645\u0637\u0647\u0631\u06cc \u0641\u0631\u06cc\u0645\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": [
-      128
-    ]
-  },
-  {
-    "id": 148,
-    "name": "\u0639\u0644\u06cc\u200c\u0627\u06a9\u0628\u0631 \u0646\u0627\u0637\u0642 \u0646\u0648\u0631\u06cc",
-    "spouse": null,
-    "parents": [
-      150
-    ]
-  },
-  {
-    "id": 149,
-    "name": "\u0639\u0628\u0627\u0633\u0639\u0644\u06cc \u0646\u0627\u0637\u0642 \u0646\u0648\u0631\u06cc",
-    "spouse": null,
-    "parents": [
-      150
-    ]
-  },
-  {
-    "id": 150,
     "name": "NO NAME PARENT",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 151,
+    "id": 146,
     "name": "\u0627\u062d\u0645\u062f \u0646\u0627\u0637\u0642 \u0646\u0648\u0631\u06cc",
     "spouse": null,
     "parents": [
-      150
+      145
     ]
   },
   {
-    "id": 152,
+    "id": 147,
     "name": "\u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u062e\u0644\u062e\u0627\u0644\u06cc",
+    "spouse": null,
+    "parents": [
+      149
+    ]
+  },
+  {
+    "id": 148,
+    "name": "\u063a\u0641\u0648\u0631 \u0635\u0627\u062f\u0642\u06cc \u06af\u06cc\u0648\u06cc",
+    "spouse": null,
+    "parents": [
+      149
+    ]
+  },
+  {
+    "id": 149,
+    "name": "NO NAME PARENT",
+    "spouse": null,
+    "parents": []
+  },
+  {
+    "id": 150,
+    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u200c\u0645\u062d\u0645\u062f \u062f\u0633\u062a\u063a\u06cc\u0628",
+    "spouse": null,
+    "parents": [
+      151
+    ]
+  },
+  {
+    "id": 151,
+    "name": "NO NAME PARENT",
+    "spouse": null,
+    "parents": []
+  },
+  {
+    "id": 152,
+    "name": "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f \u0622\u0648\u0627\u06cc\u06cc",
     "spouse": null,
     "parents": [
       154
@@ -1140,7 +1140,7 @@
   },
   {
     "id": 153,
-    "name": "\u063a\u0641\u0648\u0631 \u0635\u0627\u062f\u0642\u06cc \u06af\u06cc\u0648\u06cc",
+    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u0631\u0636\u0627 \u0622\u0648\u0627\u06cc\u06cc",
     "spouse": null,
     "parents": [
       154
@@ -1154,65 +1154,63 @@
   },
   {
     "id": 155,
-    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u200c\u0645\u062d\u0645\u062f \u062f\u0633\u062a\u063a\u06cc\u0628",
+    "name": "\u0645\u062d\u0645\u062f\u062c\u0648\u0627\u062f \u0627\u0698\u0647\u200c\u0627\u06cc",
     "spouse": null,
     "parents": [
-      156
+      157
     ]
   },
   {
     "id": 156,
+    "name": "\u0645\u0647\u062f\u06cc \u0627\u0698\u0647\u200c\u0627\u06cc",
+    "spouse": null,
+    "parents": [
+      157
+    ]
+  },
+  {
+    "id": 157,
     "name": "NO NAME PARENT",
     "spouse": null,
     "parents": []
   },
   {
-    "id": 157,
-    "name": "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f \u0622\u0648\u0627\u06cc\u06cc",
-    "spouse": null,
-    "parents": [
-      159
-    ]
-  },
-  {
     "id": 158,
-    "name": "\u0633\u06cc\u062f \u0639\u0644\u06cc\u0631\u0636\u0627 \u0622\u0648\u0627\u06cc\u06cc",
+    "name": "\u0639\u0644\u06cc\u200c\u0627\u06a9\u0628\u0631 \u0627\u0698\u0647\u200c\u0627\u06cc",
     "spouse": null,
     "parents": [
-      159
+      157
     ]
   },
   {
     "id": 159,
-    "name": "NO NAME PARENT",
+    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc",
     "spouse": null,
     "parents": []
   },
   {
     "id": 160,
-    "name": "\u0645\u062d\u0645\u062f\u062c\u0648\u0627\u062f \u0627\u0698\u0647\u200c\u0627\u06cc",
+    "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
-      162
+      114
     ]
   },
   {
     "id": 161,
-    "name": "\u0645\u0647\u062f\u06cc \u0627\u0698\u0647\u200c\u0627\u06cc",
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0635\u062f\u0631",
     "spouse": null,
-    "parents": [
-      162
-    ]
+    "parents": []
   },
   {
     "id": 162,
-    "name": "NO NAME PARENT",
+    "name": "\u0622\u06cc\u062a\u200c\u0627\u0644\u0644\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
     "id": 163,
-    "name": "\u0639\u0644\u06cc\u200c\u0627\u06a9\u0628\u0631 \u0627\u0698\u0647\u200c\u0627\u06cc",
+    "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
       162
@@ -1220,27 +1218,27 @@
   },
   {
     "id": 164,
-    "name": "\u0645\u062d\u0645\u062f\u0628\u0627\u0642\u0631 \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc",
+    "name": "\u0633\u06cc\u062f \u062c\u0644\u0627\u0644 \u0627\u0644\u062f\u06cc\u0646 \u0637\u0627\u0647\u0631\u06cc \u0627\u0635\u0641\u0647\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
     "id": 165,
-    "name": "NO NAME PERSON",
-    "spouse": null,
-    "parents": [
-      116
-    ]
-  },
-  {
-    "id": 166,
-    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0635\u062f\u0631",
+    "name": "\u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u0631\u0648\u062d\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
+    "id": 166,
+    "name": "NO NAME PERSON",
+    "spouse": null,
+    "parents": [
+      165
+    ]
+  },
+  {
     "id": 167,
-    "name": "\u0622\u06cc\u062a\u200c\u0627\u0644\u0644\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc",
+    "name": "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc \u0632\u0631\u0646\u062f\u06cc",
     "spouse": null,
     "parents": []
   },
@@ -1249,32 +1247,35 @@
     "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
-      167
+      167,
+      56
     ]
   },
   {
     "id": 169,
-    "name": "\u0633\u06cc\u062f \u062c\u0644\u0627\u0644 \u0627\u0644\u062f\u06cc\u0646 \u0637\u0627\u0647\u0631\u06cc \u0627\u0635\u0641\u0647\u0627\u0646\u06cc",
+    "name": "\u0622\u06cc\u062a\u200c\u0627\u0644\u0644\u0647 \u0633\u06cc\u062f \u0627\u062d\u0645\u062f \u0632\u0646\u062c\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
   },
   {
     "id": 170,
-    "name": "\u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u0631\u0648\u062d\u0627\u0646\u06cc",
+    "name": "NO NAME PERSON",
     "spouse": null,
-    "parents": []
+    "parents": [
+      169
+    ]
   },
   {
     "id": 171,
     "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
-      170
+      74
     ]
   },
   {
     "id": 172,
-    "name": "\u062f\u0627\u0645\u0627\u062f \u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0645\u06cc\u0631\u0645\u062d\u0645\u062f\u06cc \u0632\u0631\u0646\u062f\u06cc",
+    "name": "\u0639\u0632\u06cc\u0632\u0627\u0644\u0644\u0647 \u062e\u0648\u0634\u0648\u0642\u062a",
     "spouse": null,
     "parents": []
   },
@@ -1283,48 +1284,11 @@
     "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
-      58,
       172
     ]
   },
   {
     "id": 174,
-    "name": "\u0622\u06cc\u062a\u200c\u0627\u0644\u0644\u0647 \u0633\u06cc\u062f \u0627\u062d\u0645\u062f \u0632\u0646\u062c\u0627\u0646\u06cc",
-    "spouse": null,
-    "parents": []
-  },
-  {
-    "id": 175,
-    "name": "NO NAME PERSON",
-    "spouse": null,
-    "parents": [
-      174
-    ]
-  },
-  {
-    "id": 176,
-    "name": "NO NAME PERSON",
-    "spouse": null,
-    "parents": [
-      77
-    ]
-  },
-  {
-    "id": 177,
-    "name": "\u0639\u0632\u06cc\u0632\u0627\u0644\u0644\u0647 \u062e\u0648\u0634\u0648\u0642\u062a",
-    "spouse": null,
-    "parents": []
-  },
-  {
-    "id": 178,
-    "name": "NO NAME PERSON",
-    "spouse": null,
-    "parents": [
-      177
-    ]
-  },
-  {
-    "id": 179,
     "name": "NO NAME PERSON",
     "spouse": null,
     "parents": [
@@ -1332,7 +1296,7 @@
     ]
   },
   {
-    "id": 180,
+    "id": 175,
     "name": "\u0633\u06cc\u062f \u062c\u0644\u0627\u0644 \u0637\u0627\u0647\u0631\u06cc \u0627\u0635\u0641\u0647\u0627\u0646\u06cc",
     "spouse": null,
     "parents": []
