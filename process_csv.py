@@ -23,16 +23,38 @@ RELATION_ORDER = {
     Relation.MOTHER: 0,
     Relation.HUSBAND: 0,
     Relation.WIFE: 0,
+
     Relation.SON: 1,
     Relation.DAUGHTER: 1,
+
     Relation.BROTHER: 10,
     Relation.SISTER: 10,
+
     Relation.SONS_WIFE: 20,
     Relation.DAUGHTERS_HUSBAND: 20,
+
     Relation.WIFES_FATHER: 21,
     Relation.WIFES_MOTHER: 21,
     Relation.HUSBANDS_FATHER: 21,
     Relation.HUSBANDS_MOTHER: 21,
+
+    Relation.HUSBANDS_BROTHER: 22,
+    Relation.HUSBANDS_SISTER: 22,
+    Relation.WIFES_BROTHER: 22,
+    Relation.WIFES_SISTER: 22,
+
+    Relation.BROTHERS_WIFE: 22,
+    Relation.SISTERS_HUSBAND: 22,
+
+    Relation.MOTHERS_BROTHER: 19,
+    Relation.MOTHERS_SISTER: 19,
+    Relation.FATHERS_BROTHER: 19,
+    Relation.FATHERS_SISTER: 19,
+
+    Relation.BROTHERS_SON: 19,
+    Relation.BROTHERS_DAUGHTER: 19,
+    Relation.SISTERS_SON: 19,
+    Relation.SISTERS_DAUGHTER: 19,
 }
 
 

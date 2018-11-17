@@ -62,6 +62,8 @@ for person in people.values():
         processed_spouses.add(person.spouse)
 
 
+print("Generated {} nodes and {} edges.".format(len(nodes), len(edges)))
+
 generated_js = TEMPLATE.format(
     nodes_json=json.dumps(nodes, indent=2),
     edges_json=json.dumps(edges, indent=2),
